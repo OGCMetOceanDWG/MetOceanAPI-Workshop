@@ -1,2 +1,2 @@
 # MetOceanAPI-Workshop
-working area for MetOcean API Workshop 05 - 07 December in Tysons Corner, VA, USA
+Working area for MetOcean API Workshop 05 - 07 December at ESRI in Tysons Corner, VA, USA
