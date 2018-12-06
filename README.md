@@ -50,5 +50,5 @@ Dec 7th schedule
 - 8 - 12 noon → Continued Hackathon sessions and final report outs
 - 12 noon - 1pm → Lunch break
 - 1pm - 4pm → General discussion on two topics:
-•	Discussion on the applicability of each API to various uses e.g. interoperability with other WCS servers
-•	The OGC appetite for this approach?
+  - Discussion on the applicability of each API to various uses e.g. interoperability with other WCS servers
+  - The OGC appetite for this approach?
