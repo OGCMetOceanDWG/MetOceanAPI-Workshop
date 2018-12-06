@@ -9,3 +9,5 @@
 - Mark Burgoyne (UK Met Office)
 
 - [Richard Carne](https://github.com/RichCarne) (UK Met Office) Attending remotely
+
+- [Ben Adams](https://github.com/benjwadams) (RPS ASA)
