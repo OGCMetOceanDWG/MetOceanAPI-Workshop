@@ -1,3 +1,3 @@
 # Participants
 
-- [Tom Kralidis](@tomkralidis) (Meteorological Service of Canada)
+- [Tom Kralidis](https://github.com/tomkralidis) (Meteorological Service of Canada)
