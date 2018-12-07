@@ -11,3 +11,5 @@
 - [Richard Carne](https://github.com/RichCarne) (UK Met Office) Attending remotely
 
 - [Ben Adams](https://github.com/benjwadams) (RPS ASA)
+
+- [David Vick](https://github.com/vickdw) (Boundless)
